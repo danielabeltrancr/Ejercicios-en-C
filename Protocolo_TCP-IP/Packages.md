@@ -1,6 +1,6 @@
 # Descripción de los paquetes
 
-## ⛔ NOTA
+## 📍  NOTA
 Considerar que en cada uno de los paquetes proporcionados, los primeros 14 bytes, corresponden al encabezado de la capa de red.
 
 ## UDP localhost
